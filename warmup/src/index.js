@@ -1,3 +1,3 @@
 module.exports = function warmup(temperature) {
-  // your implementation here
+    const ZERO_DEGREES_CELCIUS = 32;
 };
